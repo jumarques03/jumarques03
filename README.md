@@ -5,9 +5,8 @@
 <br/>
 
 ![GitHub](https://img.shields.io/badge/jumarques03-4C1D95?style=for-the-badge&logo=github&logoColor=white)
-![FIAP](https://img.shields.io/badge/FIAP-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![FIAP](https://img.shields.io/badge/FIAP-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=5B21B6)
 ![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![Visitas](https://komarev.com/ghpvc/?username=jumarques03&color=7C3AED&style=for-the-badge&label=VISITAS)
 
 </div>
 
