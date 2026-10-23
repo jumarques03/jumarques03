@@ -1,66 +1,130 @@
-<h2 data-importer="text" align="left">Hi! I'm Júlia Marques!</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Júlia%20Marques&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Desenvolvimento%20•%20Dados%20•%20Inteligência%20Artificial&descSize=17&descAlignY=62" width="100%" alt="Júlia Marques"/>
 
-<h4 data-importer="text" align="left">- 🎓 Computer Science student at FIAP.<br>- 💼 Technology Projects Intern at FIAP School.<br>- 💻 Aspiring Full Stack Developer building AI-powered, data-driven applications.<br>- 📱 Passionate about creating web and mobile solutions with modern technologies.<br>- 🌱 Currently exploring Node.js, React, React Native and Javascript.<br>- ✨ Always learning, building and sharing knowledge through technology.</h4>
+<br/>
 
-###
+![GitHub](https://img.shields.io/badge/jumarques03-4C1D95?style=for-the-badge&logo=github&logoColor=white)
+![FIAP](https://img.shields.io/badge/FIAP-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Dados](https://img.shields.io/badge/Foco-Dados%20%26%20IA-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em%20busca%20de%20est%C3%A1gio-A78BFA?style=for-the-badge&logoColor=white)
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/jumarques03/jumarques03/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/jumarques03/jumarques03/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<br/>
 
-<br clear="both">
+## 👋 Oi, eu sou a Júlia
 
-<div data-importer="techs" align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
+Estudo **Ciência da Computação** na **FIAP** e estou construindo minha carreira entre **desenvolvimento**, **dados** e **inteligência artificial**. Comecei pelo front-end, gostei de entender o que acontece por trás da tela e acabei indo parar em back-end, banco de dados e machine learning. Hoje é nessa mistura que eu me sinto mais à vontade.
+
+> 💜 Gosto de projeto que sai do papel: prefiro fazer, errar, ajustar e publicar do que ficar só na teoria.
+
+<br/>
+
+## 💻 Desenvolvimento
+
+- 🌐 Front-end com **JavaScript, React, HTML e CSS**
+- 📱 Apps mobile multiplataforma com **Flutter e Dart**
+- ⚙️ Back-end com **Python (FastAPI)** e **Java (Spring Boot, JPA)**
+- 🧩 Programação orientada a objetos, **APIs REST** e integração com banco de dados
+- 🔀 Versionamento com **Git e GitHub** e protótipos no **Figma**
+
+## 📊 Dados
+
+- 🗄️ **SQL** em SQLite, PostgreSQL, Oracle e MySQL: consultas, joins, agregações e modelagem
+- 🐼 Análise e tratamento de dados com **Python, Pandas e NumPy**
+- 📈 Visualização de dados e relatórios com insights
+- 🧱 Estudos em **Big Data e Analytics**
+
+## 🤖 Inteligência artificial
+
+- 🧪 Machine learning com **Scikit-learn**
+- 🧠 Deep learning e **redes neurais convolucionais (CNN)** para classificação de imagens
+- 🔥 **TensorFlow e Keras**
+- 🚀 Interesse crescente em **agentes de IA** e em integrar LLMs a aplicações reais
+
+<br/>
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,flutter,dart,java,spring,fastapi,cpp&theme=dark" alt="linguagens e frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,tensorflow,sklearn,pandas,numpy,git,github,figma,vscode,notion&theme=dark" alt="dados, ferramentas"/>
+
 </div>
 
-###
+<br/>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/jumarques03/jumarques03/snake-output/snake.svg" alt="Snake animation" />
+**Linguagens**
 
-###
+![Python](https://img.shields.io/badge/Python-4C1D95?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5B21B6?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6D28D9?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-8B5CF6?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-A78BFA?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-C4B5FD?style=for-the-badge&logo=postgresql&logoColor=4C1D95)
 
-<div data-importer="socials" align="center">
-  <a href="jumarques.tech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/juliasouzamarques" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+**Desenvolvimento**
+
+![React](https://img.shields.io/badge/React-4C1D95?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-5B21B6?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-7C3AED?style=for-the-badge&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-8B5CF6?style=for-the-badge&logo=firebase&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-A78BFA?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C4B5FD?style=for-the-badge&logo=css3&logoColor=4C1D95)
+
+**Dados e IA**
+
+![Pandas](https://img.shields.io/badge/Pandas-4C1D95?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-5B21B6?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-8B5CF6?style=for-the-badge&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-A78BFA?style=for-the-badge&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C4B5FD?style=for-the-badge&logo=postgresql&logoColor=4C1D95)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-4C1D95?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-6D28D9?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-7C3AED?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-A78BFA?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+<br/>
+
+## 🚀 Alguns projetos
+
+| | Projeto | O que é |
+|---|---|---|
+| 🌿 | **EcoTrack** | Solução para monitorar a vegetação ao longo de rodovias (Challenge Motiva/CCR) |
+| 🎵 | **LOVIC** | App em Flutter que aproxima pessoas por afinidade musical |
+| 🍕 | **Pizza or Not Pizza** | Classificador de imagens com CNN |
+| 🗃️ | **Portfólio de SQL** | Simulação de uma empresa com tarefas de análise e relatório de conclusões |
+
+<br/>
+
+## 🎯 Agora
+
+- 📚 Aprofundando em **dados, IA e agentes**
+- 🛠️ Montando um portfólio com projetos de dados e machine learning
+- 💼 Buscando oportunidade de **estágio** na área de tecnologia
+
+<br/>
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jumarques03)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt=""/>
+
 </div>
-
-###
