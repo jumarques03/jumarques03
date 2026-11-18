@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 I'm a **Computer Science** student at **FIAP**, focused on **backend development with Python**: APIs, databases, and infrastructure with Docker, Linux, and AWS. From there I grow into **data** and **artificial intelligence**, always building projects to put what I learn into practice.
 
@@ -31,6 +30,7 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 <img src="https://img.shields.io/badge/Data-Pandas-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="Data: Pandas"/>
 <img src="https://img.shields.io/badge/AI-Agents%20and%20LLMs-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="AI: agents and LLMs"/>
 <img src="https://img.shields.io/badge/DevOps-Docker%2C%20Linux%2C%20AWS-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="DevOps: Docker, Linux, AWS"/>
+---
 
 </div>
 
@@ -69,7 +69,7 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 - Relational **databases** and SQL (basic level)
 
 <br/>
-
+---
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Tech%20stack&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Tech stack"/>
@@ -110,7 +110,7 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 <img src="https://img.shields.io/badge/Scrum-7C3AED?style=flat-square&logoColor=white" height="28" alt="Scrum"/>
 
 <br/>
-
+---
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Featured%20projects&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Featured projects"/>
@@ -153,7 +153,7 @@ Solar home automation with Goodwe inverters, the Alexa virtual assistant, and a 
 </div>
 
 <br/>
-
+---
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Stats&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Stats"/>
