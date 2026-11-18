@@ -18,6 +18,7 @@
 
 </div>
 
+<hr/>
 
 I'm a **Computer Science** student at **FIAP**, focused on **backend development with Python**: APIs, databases, and infrastructure with Docker, Linux, and AWS. From there I grow into **data** and **artificial intelligence**, always building projects to put what I learn into practice.
 
@@ -30,7 +31,6 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 <img src="https://img.shields.io/badge/Data-Pandas-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="Data: Pandas"/>
 <img src="https://img.shields.io/badge/AI-Agents%20and%20LLMs-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="AI: agents and LLMs"/>
 <img src="https://img.shields.io/badge/DevOps-Docker%2C%20Linux%2C%20AWS-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="DevOps: Docker, Linux, AWS"/>
----
 
 </div>
 
@@ -42,82 +42,108 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 
 </div>
 
----
+<hr/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/01-Backend%20with%20Python-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="01 Backend with Python"/>
 
-- **REST APIs** with **FastAPI**, integrated with databases
-- **Object-oriented programming** in Python
-- Service integration: website, voice assistant (Alexa), and chatbot
-- **React** and **React Native** as support in team projects
+<p align="center">
+<b>REST APIs</b> with <b>FastAPI</b>, integrated with databases<br/>
+<b>Object-oriented programming</b> in Python<br/>
+Service integration: website, voice assistant (Alexa), and chatbot<br/>
+<b>React</b> and <b>React Native</b> as support in team projects
+</p>
 
-<img src="https://img.shields.io/badge/02-Data%20and%20AI-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="02 Data and artificial intelligence"/>
+</div>
 
-- **Pandas** and **NumPy** for data analysis
-- **Data visualization** and analysis in Jupyter Notebook
-- Understanding of **Big Data and Analytics**
-- Mathematical modeling and linear regression
-- **AI agent development** and multi-agent systems
-- **LLM API** integration (Gemini, Groq)
-- AI-assisted development with **Claude** and **Claude Code**
+<hr/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/02-Data%20and%20AI-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="02 Data and AI"/>
+
+<p align="center">
+<b>Pandas</b> and <b>NumPy</b> for data analysis<br/>
+<b>Data visualization</b> and analysis in Jupyter Notebook<br/>
+Understanding of <b>Big Data and Analytics</b><br/>
+Mathematical modeling and linear regression<br/>
+<b>AI agent development</b> and multi-agent systems<br/>
+<b>LLM API</b> integration (Gemini, Groq)<br/>
+AI-assisted development with <b>Claude</b> and <b>Claude Code</b>
+</p>
+
+</div>
+
+<hr/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/03-DevOps%20and%20infrastructure-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="03 DevOps and infrastructure"/>
 
-- **Docker**: building and managing images and containers
-- **Linux**: directories, permissions, and processes
-- **AWS**: EC2 and VPC
-- Relational **databases** and SQL (basic level)
+<p align="center">
+<b>Docker</b>: building and managing images and containers<br/>
+<b>Linux</b>: directories, permissions, and processes<br/>
+<b>AWS</b>: EC2 and VPC<br/>
+Relational <b>databases</b> and SQL (basic level)
+</p>
+
+</div>
 
 <br/>
----
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Tech%20stack&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Tech stack"/>
 
 </div>
 
----
+<hr/>
 
-**Backend**&nbsp;&nbsp;
+<div align="center">
+
+<p align="center"><b>Backend</b>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" height="28" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white" height="28" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white" height="28" alt="FastAPI"/></p>
 
-**Data**&nbsp;&nbsp;
+<p align="center"><b>Data</b>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white" height="28" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white" height="28" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Jupyter-7C3AED?style=flat-square&logo=jupyter&logoColor=white" height="28" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Jupyter-7C3AED?style=flat-square&logo=jupyter&logoColor=white" height="28" alt="Jupyter"/></p>
 
-**AI**&nbsp;&nbsp;
+<p align="center"><b>AI</b>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logo=claude&logoColor=white" height="28" alt="Claude"/>
 <img src="https://img.shields.io/badge/Claude%20Code-7C3AED?style=flat-square&logo=claude&logoColor=white" height="28" alt="Claude Code"/>
 <img src="https://img.shields.io/badge/Gemini%20API-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" height="28" alt="Gemini API"/>
 <img src="https://img.shields.io/badge/Groq-7C3AED?style=flat-square&logoColor=white" height="28" alt="Groq"/>
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logoColor=white" height="28" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logoColor=white" height="28" alt="AI Agents"/></p>
 
-**DevOps and databases**&nbsp;&nbsp;
+<p align="center"><b>DevOps and databases</b>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white" height="28" alt="Docker"/>
 <img src="https://img.shields.io/badge/Linux-7C3AED?style=flat-square&logo=linux&logoColor=white" height="28" alt="Linux"/>
 <img src="https://img.shields.io/badge/AWS-7C3AED?style=flat-square&logoColor=white" height="28" alt="AWS"/>
-<img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logoColor=white" height="28" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logoColor=white" height="28" alt="SQL"/></p>
 
-**Front-end and mobile**&nbsp;&nbsp;
+<p align="center"><b>Front-end and mobile</b>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white" height="28" alt="React"/>
-<img src="https://img.shields.io/badge/React%20Native-7C3AED?style=flat-square&logo=react&logoColor=white" height="28" alt="React Native"/>
+<img src="https://img.shields.io/badge/React%20Native-7C3AED?style=flat-square&logo=react&logoColor=white" height="28" alt="React Native"/></p>
 
-**Tools**&nbsp;&nbsp;
+<p align="center"><b>Tools</b>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white" height="28" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Scrum-7C3AED?style=flat-square&logoColor=white" height="28" alt="Scrum"/>
+<img src="https://img.shields.io/badge/Scrum-7C3AED?style=flat-square&logoColor=white" height="28" alt="Scrum"/></p>
+
+</div>
 
 <br/>
----
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Featured%20projects&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Featured projects"/>
 
 </div>
 
----
+<hr/>
 
 ### [EcoTrack](https://github.com/EcoTrackEnvironment/EcoTrack) · Motiva (CCR) Challenge
 
@@ -125,13 +151,15 @@ Vegetation monitoring for the Rodoanel Mário Covas ring road, in São Paulo. It
 
 > **My part:** front-end and team management, organizing deliveries with Scrum and Trello.
 
+<p align="center">
 <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" height="28" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white" height="28" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white" height="28" alt="React"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-7C3AED?style=flat-square&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/Gemini%20API-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" height="28" alt="Gemini API"/>
+</p>
 
-<br/>
+<hr/>
 
 ### [SmartSolarGrid](https://github.com/jumarques03/SmartSolarGrid-Challenge2025) · FIAP Challenge with Goodwe
 
@@ -139,10 +167,12 @@ Solar home automation with Goodwe inverters, the Alexa virtual assistant, and a 
 
 > **My part:** the Python backend and API that connect the website and the Alexa skill, the energy consumption charts, and a chatbot built on the Gemini API.
 
+<p align="center">
 <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" height="28" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white" height="28" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Alexa-7C3AED?style=flat-square&logoColor=white" height="28" alt="Alexa"/>
 <img src="https://img.shields.io/badge/Gemini%20API-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" height="28" alt="Gemini API"/>
+</p>
 
 <div align="center">
 
@@ -153,14 +183,14 @@ Solar home automation with Goodwe inverters, the Alexa virtual assistant, and a 
 </div>
 
 <br/>
----
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Stats&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Stats"/>
 
 </div>
 
----
+<hr/>
 
 <div align="center">
 
@@ -181,7 +211,7 @@ Solar home automation with Goodwe inverters, the Alexa virtual assistant, and a 
 
 </div>
 
----
+<hr/>
 
 <div align="center">
 
