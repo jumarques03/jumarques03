@@ -12,7 +12,13 @@
 
 <br/>
 
-## Hi, I'm Júlia
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Hi%2C%20I%27m%20J%C3%BAlia&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Hi, I'm Júlia"/>
+
+</div>
+
+---
 
 I'm a **Computer Science** student at **FIAP**, focused on **backend development with Python**: APIs, databases, and infrastructure with Docker, Linux, and AWS. From there I grow into **data** and **artificial intelligence**, always building projects to put what I learn into practice.
 
@@ -30,16 +36,22 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 
 <br/>
 
-## What I do
+<div align="center">
 
-### Backend with Python
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=What%20I%20do&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="What I do"/>
+
+</div>
+
+---
+
+<img src="https://img.shields.io/badge/01-Backend%20with%20Python-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="01 Backend with Python"/>
 
 - **REST APIs** with **FastAPI**, integrated with databases
 - **Object-oriented programming** in Python
 - Service integration: website, voice assistant (Alexa), and chatbot
 - **React** and **React Native** as support in team projects
 
-### Data and artificial intelligence
+<img src="https://img.shields.io/badge/02-Data%20and%20AI-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="02 Data and artificial intelligence"/>
 
 - **Pandas** and **NumPy** for data analysis
 - **Data visualization** and analysis in Jupyter Notebook
@@ -49,7 +61,7 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 - **LLM API** integration (Gemini, Groq)
 - AI-assisted development with **Claude** and **Claude Code**
 
-### DevOps and infrastructure
+<img src="https://img.shields.io/badge/03-DevOps%20and%20infrastructure-7C3AED?style=for-the-badge&labelColor=1A1625" height="34" alt="03 DevOps and infrastructure"/>
 
 - **Docker**: building and managing images and containers
 - **Linux**: directories, permissions, and processes
@@ -58,7 +70,13 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 
 <br/>
 
-## Tech stack
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Tech%20stack&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Tech stack"/>
+
+</div>
+
+---
 
 **Backend**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" height="28" alt="Python"/>
@@ -93,7 +111,13 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 
 <br/>
 
-## Featured projects
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Featured%20projects&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Featured projects"/>
+
+</div>
+
+---
 
 ### [EcoTrack](https://github.com/EcoTrackEnvironment/EcoTrack) · Motiva (CCR) Challenge
 
@@ -130,7 +154,13 @@ Solar home automation with Goodwe inverters, the Alexa virtual assistant, and a 
 
 <br/>
 
-## Stats
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Stats&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Stats"/>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -145,7 +175,13 @@ Solar home automation with Goodwe inverters, the Alexa virtual assistant, and a 
 
 <br/>
 
-## Contact
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Contact&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Contact"/>
+
+</div>
+
+---
 
 <div align="center">
 
