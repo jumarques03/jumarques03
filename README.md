@@ -18,7 +18,6 @@
 
 </div>
 
-<hr/>
 
 I'm a **Computer Science** student at **FIAP**, focused on **backend development with Python**: APIs, databases, and infrastructure with Docker, Linux, and AWS. From there I grow into **data** and **artificial intelligence**, always building projects to put what I learn into practice.
 
@@ -36,13 +35,14 @@ I'm a **Computer Science** student at **FIAP**, focused on **backend development
 
 <br/>
 
+<hr/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=What%20I%20do&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="What I do"/>
 
 </div>
 
-<hr/>
 
 <div align="center">
 
@@ -57,7 +57,6 @@ Service integration: website, voice assistant (Alexa), and chatbot<br/>
 
 </div>
 
-<hr/>
 
 <div align="center">
 
@@ -75,7 +74,6 @@ AI-assisted development with <b>Claude</b> and <b>Claude Code</b>
 
 </div>
 
-<hr/>
 
 <div align="center">
 
@@ -92,13 +90,14 @@ Relational <b>databases</b> and SQL (basic level)
 
 <br/>
 
+<hr/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Tech%20stack&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Tech stack"/>
 
 </div>
 
-<hr/>
 
 <div align="center">
 
@@ -137,13 +136,14 @@ Relational <b>databases</b> and SQL (basic level)
 
 <br/>
 
+<hr/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Featured%20projects&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Featured projects"/>
 
 </div>
 
-<hr/>
 
 ### [EcoTrack](https://github.com/EcoTrackEnvironment/EcoTrack) · Motiva (CCR) Challenge
 
@@ -159,7 +159,6 @@ Vegetation monitoring for the Rodoanel Mário Covas ring road, in São Paulo. It
 <img src="https://img.shields.io/badge/Gemini%20API-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" height="28" alt="Gemini API"/>
 </p>
 
-<hr/>
 
 ### [SmartSolarGrid](https://github.com/jumarques03/SmartSolarGrid-Challenge2025) · FIAP Challenge with Goodwe
 
@@ -184,13 +183,13 @@ Solar home automation with Goodwe inverters, the Alexa virtual assistant, and a 
 
 <br/>
 
+<hr/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Stats&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Stats"/>
 
 </div>
-
-<hr/>
 
 <div align="center">
 
@@ -205,13 +204,14 @@ Solar home automation with Goodwe inverters, the Alexa virtual assistant, and a 
 
 <br/>
 
+<hr/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Contact&fontSize=40&fontColor=7C3AED&fontAlignY=60" width="100%" alt="Contact"/>
 
 </div>
 
-<hr/>
 
 <div align="center">
 
